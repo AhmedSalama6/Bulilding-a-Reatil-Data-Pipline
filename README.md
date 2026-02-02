@@ -16,6 +16,8 @@ Under Development 🚧
 - Member 2: Mahmoud Mohamed Tawfiq Aref
 - Member 3: Mostafa Mohamed abdelmotall salem
 - Member 4: Basant Wadie Adly Hanna
+- Member 5: Abram Gergis Milad
+- Member 6: Julia Magdy Mikhael
 
 ## Planned Technologies
 (To be finalized)
